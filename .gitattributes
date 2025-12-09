@@ -5,3 +5,8 @@ awesomesauce/** filter=lfs diff=lfs merge=lfs -text
 *.7z.003 filter=lfs diff=lfs merge=lfs -text
 *.7z.004 filter=lfs diff=lfs merge=lfs -text
 *.7z.005 filter=lfs diff=lfs merge=lfs -text
+awesomesauce/region.7z.001 filter=lfs diff=lfs merge=lfs -text
+awesomesauce/region.7z.002 filter=lfs diff=lfs merge=lfs -text
+awesomesauce/region.7z.003 filter=lfs diff=lfs merge=lfs -text
+awesomesauce/region.7z.004 filter=lfs diff=lfs merge=lfs -text
+awesomesauce/region.7z.005 filter=lfs diff=lfs merge=lfs -text
